@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Dalian
-🌱 I’m currently learning react&nextjs
+🔭 I’m currently working in Dalian<br>
+🌱 I’m currently learning react&nextjs<br>
 💬 Ask me about anything I might know
 
 
