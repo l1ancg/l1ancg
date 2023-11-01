@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">My name is l1ancg and I'm a Full stack development engineer from China</p>
-
-###
-
-<h2 align="left">👨 About Me</h2>
-
-###
-
-<p align="left">🌱 I’m currently learning react/nextjs<br>💬 Ask me about anything I might know<br>📫 How to reach me chuanguang.lian@gmail.com</p>
+<p align="left">My name is l1ancg and I'm a Full stack development engineer</p>
 
 ###
 
@@ -90,5 +82,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l1ancg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=l1ancg&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
 ###
